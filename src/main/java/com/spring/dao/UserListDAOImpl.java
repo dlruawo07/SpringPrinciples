@@ -30,7 +30,7 @@ public class UserListDAOImpl implements UserListDAO {
 		list2.setUserName("임꺽정");
 		list2.setUserAge("30");
 		list2.setUserAddress("경기도 안양시");
-		list2.setUserImage("poepleimage.png");
+		list2.setUserImage("peopleimage.png");
 		
 		userlist.add(list2);
 		
